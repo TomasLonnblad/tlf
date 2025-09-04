@@ -10,7 +10,7 @@
         href="https://image.nuxt.com"
         target="_blank"
       >
-        <!-- Nuxt Logo -->
+        <!-- Nuxt Loggo -->
         <svg
           class="w-auto h-10 dark:text-white text-black"
           width="466"
